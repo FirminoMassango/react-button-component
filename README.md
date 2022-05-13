@@ -89,4 +89,4 @@ $ npm run dev
 ## Contact
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
-- GitHub @FirminoMassango(https://{github.com/FirminoMassango})
+- GitHub @FirminoMassango(https://github.com/FirminoMassango)
