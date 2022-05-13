@@ -1,0 +1,38 @@
+div {
+  display: flex;
+  flex-direction: column;
+}
+
+div > h1 {
+  color: #4F4F4F;
+
+  margin: 20px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+div > button {
+  margin-bottom: 30px;
+}
+
+div > span {
+  margin-inline: 20px;
+  font-size: 12px;
+}
+
+div.inline {
+  flex-direction: row;
+}
+
+.createdBy {
+  color: #5c5c5c;
+  font-size: 14px;
+  margin: 80px 10px 10px;
+}
+
+.createdBy a {
+  text-decoration: none;
+  color: #ff6e2b;
+  font-weight: bold;
+  border-bottom: 1px solid #ff6e2b;
+}
