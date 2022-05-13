@@ -1,4 +1,3 @@
-# react-button-component
 <!-- Please update value in the {}  -->
 
 <h1 align="center">React Button Component</h1>
