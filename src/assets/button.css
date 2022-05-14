@@ -42,6 +42,7 @@ button:hover,
 .disableShadow {
   background-color: #3d5afe;
   color: #fff;
+  box-shadow: none;
 }
 
 .disableShadow:hover,
